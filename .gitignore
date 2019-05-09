@@ -1,18 +1,11 @@
-<<<<<<< HEAD
+#Mapbox
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+/local
+
 .DS_Store
-/build
 /captures
 .externalNativeBuild
-=======
+
 # Compiled class file
 *.class
 
@@ -36,4 +29,19 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
->>>>>>> fbe91833e9151f5fcef3c3a3325be623c306896e
+app/.classpath
+app/.project
+.project
+
+# Android Studio
+.gradle/
+.idea/
+.settings/
+build
+# gradlew
+# gradlew.bat
+settings.gradle
+*.properties
+
+# VS Code
+.vs/
